@@ -1,0 +1,22 @@
+{
+  "name": "gulp-prefixer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uWydnA/gulp-prefixer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uWydnA/gulp-prefixer/issues"
+  },
+  "homepage": "https://github.com/uWydnA/gulp-prefixer#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
